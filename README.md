@@ -18,6 +18,6 @@ Feature Engineering to create features that will be used in the modelling proces
 Modelling using machine learning algorithms such as Logistic Regression, Decision Tree Classifier and GaussianNB.
 
 ## Wordress Blog Post
-The exploration and analysis of this data have been published on wordress as a blog post, and you can access it by clicking here. 
+The exploration and analysis of this data have been published on wordress as a blog post, and you can access it by clicking [here](https://quangnnb.wordpress.com/2023/10/11/lung-cancer-prediction/).
 DecisionTreeClassifier  was chosen to be the best model by evaluating F1 score and accuracy metrics. 
 
