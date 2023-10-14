@@ -6,7 +6,7 @@
 - Seaborn
 - Matplotlib
 - sklearn
-No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
+- time
 
 ## Project Motivation
 For this project I was interested in predicting customer churn for a fictional music streaming company: Sparkify.
