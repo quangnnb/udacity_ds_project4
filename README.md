@@ -9,16 +9,17 @@
 - time
 
 ## Project Motivation
-For this project I was interested in predicting customer churn for a fictional music streaming company: Sparkify.
+The motivation behind the Lung Cancer Prediction Project is the pressing need to improve our ability to identify and predict lung cancer accurately. Lung cancer remains one of the leading causes of cancer-related deaths worldwide, making it a critical public health concern
 
-## The project involved:
-Loading and cleaning a small subset (8kB) of a 1000 unique patients
-Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting lung cancer
-Feature Engineering to create features that will be used in the modelling process
-Modelling using machine learning algorithms such as Logistic Regression, Decision Tree Classifier and GaussianNB.
 
 ## Wordress Blog Post
-The exploration and analysis of this data have been published on wordress as a blog post, and you can access it by clicking [here](https://quangnnb.wordpress.com/2023/10/11/lung-cancer-prediction/).
+The exploration and analysis of this data have been published on wordress as a blog post, and you can access it by clicking [here](https://wordpress.com/post/quangnnb.wordpress.com/1141).
 
-DecisionTreeClassifier  was chosen to be the best model by evaluating accuracy score and time trained consuming. 
+##  File Descriptions
+- lung-cancer-prediction.ipynb: notebook contain lung cancer prediction project.
+
+## Licensing, Authors, Acknowledgements, etc.
+I'd like to acknowledge Udacity for the project idea and workspace.
+
+
 
